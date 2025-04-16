@@ -256,11 +256,12 @@
 .gslide-external {
   display: -webkit-box;
   display: -ms-flexbox;
+  border: 5px gray;
   display: flex;
   width: 100%;
   min-width: 100%;
   background: #fff;
-  padding: 0;
+  padding: 5;
   overflow: auto;
   max-height: 75vh;
   height: 100%;
