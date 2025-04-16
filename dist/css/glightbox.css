@@ -256,7 +256,7 @@
 .gslide-external {
   display: -webkit-box;
   display: -ms-flexbox;
-  border: 2px solid #000;
+  border: 10px solid #000;
   display: flex;
   width: 100%;
   min-width: 100%;
